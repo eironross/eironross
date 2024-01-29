@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Eiron Ross</h1>
 
-I am embarking on a journey of transitioning from a background in electrical engineering to a dynamic and creative field – web development
+I am embarking on a journey to learn the dynamic and creative field – web development
 
 I mainly use Python to create general purpose scripts, gathering and compiling data. I started learning programming 2 years ago and used Python to automate my work using libraries such as Selenium and Pandas. I wanted to learn to code to upskill myself and be part of the growing tech industry.
 
