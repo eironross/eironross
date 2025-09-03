@@ -1,11 +1,14 @@
+
+
 <h1>👋 Hi, I’m Eiron Ross</h1>
 
-I am embarking on a journey to learn all about data from Data Engineering to AI/ML.
-<br>I started learning programming 2 years ago and used Python to create general purpose scripts, gathering and compiling data.
+I am embarking on a journey to deepen my knowledge of data — from Data Engineering to AI/ML. I started learning programming two years ago, using Python to create general-purpose scripts for gathering and compiling data.
 
-What I like about programming is the continuous learning and problem solving.
+Currently, I work as a Data Analyst in the healthcare industry, where I’m building a strong foundation in data analysis while actively upskilling myself into Data Engineering.
 
-In my spare time, I also study music production to learn more about instrumental beats
+What excites me about programming is the continuous learning and problem-solving that comes with it.
+
+Outside of work, I also explore music production, focusing on creating instrumental beats.
 
 Hope we connect!
 
