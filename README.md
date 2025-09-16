@@ -1,7 +1,12 @@
 ![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966](https://github.com/user-attachments/assets/f7dbeef8-c781-4aab-bf5a-5a3f2f8a98e6)
 
-<h1>👋 Hi, I’m Eiron Ross</h1>
+<p align="center">
+  <em>"Failure is part of the process towards success."</em><br>
+</p>
 
+<hr>
+
+# 👋 Hi, I’m Eiron Ross
 I am embarking on a journey to deepen my knowledge of data — from Data Engineering to AI/ML. I started learning programming two years ago, using Python to create general-purpose scripts for gathering and compiling data.
 
 Currently, I work as a Data Analyst in the healthcare industry, where I’m building a strong foundation in data analysis while actively upskilling myself into Data Engineering.
@@ -18,7 +23,7 @@ Hope we connect!
 </div>
 <hr>
 <div>
-  <h2>Technologies</h2>
+  <h3>Technologies</h2>
   <img style="width:50px;height:50px;"src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">  
   <img style="width:50px;height:50px;"src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">  
   <img style="width:50px;height:50px;"src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">  
